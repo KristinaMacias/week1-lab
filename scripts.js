@@ -67,3 +67,5 @@ console.log(`My age: ${age}`);
 //template literals
 //template literals are string literals that allow embedded expressions.
 //template literals are enclosed in backticks (`) and embedded expressions are enclosed in ${}
+
+console.log("I want to push my code a second time :)");
